@@ -3,7 +3,7 @@ import 'firebase/auth';
 import 'firebase/database';
 
 let firebaseConfig = {
-    apiKey: "AIzaSyC25QAru-E2BwFgftS5BYcOgaUWBwvsJxw",
+    apiKey: "******",
     authDomain: "tarefas-70b37.firebaseapp.com",
     projectId: "tarefas-70b37",
     storageBucket: "tarefas-70b37.appspot.com",
